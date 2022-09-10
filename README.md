@@ -37,7 +37,7 @@ Lapacho...
 
 SALE COMMIT DE PRUEBA
 =======
-Lapacho..
+Lapacho
 
 acepto que es x el arbol, pero no tiene fuerza
 
