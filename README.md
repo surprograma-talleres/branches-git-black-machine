@@ -32,13 +32,7 @@ Lumbre de la tierra
 Ceniza de sol.
 Lapacho
 
-<<<<<<< HEAD
-Lapacho...
 
-SALE COMMIT DE PRUEBA
-=======
-Lapacho
+CAMPACHO
 
 acepto que es x el arbol, pero no tiene fuerza
-
->>>>>>> 15c4c4618420fc7dc4104415fc64f95f11ff9ce
